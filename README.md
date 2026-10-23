@@ -1,16 +1,34 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository centralizes the project management practices used by OctoAcme so the team has a consistent, easy-to-navigate source of truth for planning, delivery, risk management, and continuous improvement.
 
-Hey gonbee8!
+## Summary of OctoAcme project management processes
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme follows a lightweight, cross-functional project management model centered on clear ownership, iterative delivery, and transparent communication. Projects move through initiation, planning, execution, release, and retrospective activities, with explicit goals, milestones, risks, and stakeholder check-ins. The team emphasizes customer value, small testable increments, data-informed decision making, and psychological safety so work can adapt quickly without losing alignment.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Documentation index
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/gonbee8/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
+- [Release & Deployment](docs/octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](docs/octoacme-roles-and-personas.md)
+
+## How the process works
+
+Across the lifecycle, OctoAcme defines clear responsibilities for product, delivery, and stakeholder roles. Project managers coordinate scope, schedules, dependencies, and status reporting; product managers prioritize outcomes and success metrics; developers deliver work with testability and maintainability in mind; and QA helps validate acceptance criteria and release readiness. This structure reduces ambiguity and keeps project work visible without adding unnecessary ceremony.
+
+## Communication rhythm and quality expectations
+
+Regular communication is a core part of the operating model. OctoAcme uses weekly syncs, team standups, milestone reviews, and stakeholder updates to keep work moving and surface risks early. The team also relies on shared artifacts such as project charters, risk registers, backlogs, acceptance criteria, deployment checklists, and retrospective action items to maintain alignment and continuity. Quality is reinforced through CI validation, testing standards, pull request review expectations, and explicit definition-of-done criteria that support reliable delivery and safer releases.
+
+## Purpose of this doc set
+
+These documents help the team align on roles, process expectations, delivery rhythms, risk management, and continuous improvement practices so projects can move forward consistently and with less single-point dependency risk. They are intended to be practical references for contributors and stakeholders who need a fast, shared understanding of how OctoAcme works.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+This repository is a lightweight knowledge base for OctoAcme project operations and should be reviewed periodically as team practices evolve.
